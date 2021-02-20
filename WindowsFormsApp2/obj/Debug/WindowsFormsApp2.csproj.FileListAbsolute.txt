@@ -1,0 +1,28 @@
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\BIO\Fourth Year\Multimedia\New folder\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\edku\Downloads\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\GenerateResource.write.1.tlog
